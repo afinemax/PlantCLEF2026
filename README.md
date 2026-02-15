@@ -1,11 +1,11 @@
 # PlantCLEF2026
 
 This is our repo for the kaggle competition PlantCLEF2026, which is about classifying photos of plants. 
-This `readme` is a work in progress. The competition is (https://www.kaggle.com/competitions/plantclef-2026)[here].
+This `readme` is a work in progress. The competition is [Here](https://www.kaggle.com/competitions/plantclef-2026).
 
 ---
 ## Team
-- (https://github.com/afinemax)[Max Fine] | `maxwell.fine@mail.mcgill.ca`
+- [Max Fine](https://github.com/afinemax) | `maxwell.fine@mail.mcgill.ca`
 
 ---
 
